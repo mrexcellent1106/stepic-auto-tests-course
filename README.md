@@ -1,4 +1,4 @@
 # stepic-auto-tests-course
-Homework 
 
-one two three four
+Here we go again, dude!
+Good luck further ;)
